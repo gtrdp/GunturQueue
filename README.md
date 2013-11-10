@@ -14,7 +14,7 @@ Informasi
 
 		GunturQueue/dist/GunturQueue.jar
 
-* Cara menjalankan program setelah mendapatkan file .jar :
+* Cara menjalankan program setelah mendapatkan file .jar (jalankan perintah berikut di *command prompt* atau *console*) :
 	
 		java -jar GunturQueue/dist/GunturQueue.jar
 		
